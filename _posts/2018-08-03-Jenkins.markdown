@@ -6,7 +6,7 @@ published: true
 
 # Advantages of Jenkins
 
-1.  Open source and free of cost and Platform Independent (OS X, Windows or Linux).
+1.  Open source, free of cost and platform Independent (OSX, Windows or Linux).
 
 2.  User-friendly, easy to install and requires no additional installations or components.
 
