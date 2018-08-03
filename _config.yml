@@ -2,7 +2,8 @@ title: My Musings (Adarsh)
 author: Adarsh B
 email: adarshbm11@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  
+url: "https://adarshbm82.github.io/Musings/"
+baseurl: "/Musings"  
 
 # social links
 twitter_username: adarshbm11
