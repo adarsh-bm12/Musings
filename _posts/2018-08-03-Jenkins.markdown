@@ -66,20 +66,15 @@ Here comes the role of an automated infrastructure to handle deployment. Such in
 
 **Further Reference**:
 
-1.  .NET Application Continuous Integration ( CI ) using
-    Jenkins [Click here to read](https://www.codeproject.com/Articles/1019956/Net-Application-Continuous-Integration-CI-using-Je)
+1.  .NET Application Continuous Integration ( CI ) using Jenkins [Click here to read](https://www.codeproject.com/Articles/1019956/Net-Application-Continuous-Integration-CI-using-Je)
 
-2.  Jenkins for .net in 5
-    Minutes [Click here to read](http://justinramel.com/2013/01/15/5-minute-setup/)
+2.  Jenkins for .net in 5 Minutes [Click here to read](http://justinramel.com/2013/01/15/5-minute-setup/)
 
-3.  Automating SVN Check-Ins And Building A Project Via
-    Jenkins [Click here to read](https://www.c-sharpcorner.com/article/automate-svn-check-ins-and-building-a-project-via-jenkins/)
+3.  Automating SVN Check-Ins And Building A Project Via Jenkins [Click here to read](https://www.c-sharpcorner.com/article/automate-svn-check-ins-and-building-a-project-via-jenkins/)
 
-4.  How to Integrate .NET Projects with
-    Jenkins [Click here to read](https://www.swtestacademy.com/jenkins-dotnet-integration/)
+4.  How to Integrate .NET Projects with Jenkins [Click here to read](https://www.swtestacademy.com/jenkins-dotnet-integration/)
 
-5.  Continuous Integration for DotNet Using Jenkins, SVN and MSBuild
-    (DotNet)[Click here to read](http://www.techovity.com/continuous-integration-for-dotnet-using-jenkins-svn-and-msbuild-dotnet/)
+5.  Continuous Integration for DotNet Using Jenkins, SVN and MSBuild (DotNet) [Click here to read](http://www.techovity.com/continuous-integration-for-dotnet-using-jenkins-svn-and-msbuild-dotnet/)
 
 ![My helpful screenshot]({{ "/images/integrate-in-jenkins.png" | absolute_url }})
 <br><br>
