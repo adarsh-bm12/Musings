@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Jenkins- An Overview"
+date:   2018-08-03 09:57:52 +0530
+categories: jekyll update
+---
+
+# Advantages of Jenkins
+
+1.  Open source and free of cost and Platform Independent (OS X, Windows or Linux).
+
+2.  User-friendly, easy to install and requires no additional installations or components.
+
+3.  Deploys code instantly, generates test reports.  
+
+5.  Rich Plugin ecosystem makes it flexible and allows building, deploying and automating across various platforms.
+
+6.  As it is widely used, extensive support from large online communities.
+
+7.  Developers write the tests to detect code errors and don’t waste time on large-scale error-ridden integrations.
+
+8.  Keeps the software in a state where it can be released at any time safely, as the issues are detected and resolved almost right away.
+
+9.  Most of the integration work is automated. Hence fewer integration issues. This saves both time and money over the lifespan of a project.
+
+## Continuous Integration
+
+**Ex:** Imagine a scenario where the complete source code of the application was built and then deployed on a test server for testing:
+
+> **A:-** <br> Developer commits the code to the source code repository.
+
+> **B:-** <br> Meanwhile, the Jenkins server checks the repository at regular intervals for changes.
+
+> **C:-** <br>Soon after the commit, the Jenkins server detects the changes in the source code repository.
+
+> **D:-** <br>Jenkins pulls those changes and starts preparing a new build.
+
+> **E:-** <br>If the build fails, then the pertinent team will be notified.
+
+> <br>If the build is successful, then Jenkins deploys the build in the test
+    server.
+
+> **G:-** <br>You could configure the pipeline (the script to run) to create the build with several steps:    
+Prepare, test (unit and integration tests), package, publish, deploy.
+
+> **H:-** <br>After running it, Jenkins generates a feedback, if these constraints are ok,
+    the artifact is valid ( artifact is a source code compiled for testing, find
+    more info here). And then Jenkins notifies the developers about the build
+    and test results.
+
+> **I:-** <br>Jenkins will continue to check the source code repository for further
+    changes made in the source code, and the whole process will keep on
+    repeating (functional tests).
+
+(Source: [Quora](https://www.quora.com/What-is-Jenkins-When-and-why-is-it-used))
+
+# Continuous Deployment with Jenkins & .NET
+
+
+For Visual Studio to compile the source code and start the debugger, we hit F5 and repeat this many times during development and bug hunting.
+
+But what happens when the code is ready for prime time? Deployment happens!
+
+Here comes the role of an automated infrastructure to handle deployment. Such infrastructure is often referred to as Continuous Integration/ Continuous Deployment.
+
+**Reade more here**: [Continuous Deployment with Jenkins &
+.NET](https://blog.couchbase.com/continuous-deployment-with-jenkins-and-net/)
+
+**Further Reference**:
+
+1.  [.NET Application Continuous Integration ( CI ) using
+    Jenkins](https://www.codeproject.com/Articles/1019956/Net-Application-Continuous-Integration-CI-using-Je)
+
+2.  [Jenkins for .net in 5
+    Minutes](http://justinramel.com/2013/01/15/5-minute-setup/)
+
+3.  [Automating SVN Check-Ins And Building A Project Via
+    Jenkins](https://www.c-sharpcorner.com/article/automate-svn-check-ins-and-building-a-project-via-jenkins/)
+
+4.  [How to Integrate .NET Projects with
+    Jenkins](https://www.swtestacademy.com/jenkins-dotnet-integration/)
+
+5.  [Continuous Integration for DotNet Using Jenkins, SVN and MSBuild
+    (DotNet)](http://www.techovity.com/continuous-integration-for-dotnet-using-jenkins-svn-and-msbuild-dotnet/)
+
+![My helpful screenshot]({{ "/images/integrate-in-jenkins.png" | absolute_url }})
+<br><br>
+![My helpful screenshot]({{ "/images/1.jpg" | absolute_url }})<br><br>
+
+
