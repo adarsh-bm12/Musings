@@ -74,7 +74,7 @@ Here comes the role of an automated infrastructure to handle deployment. Such in
     
 4.  How to Integrate .NET Projects with Jenkins ([Read here](https://www.swtestacademy.com/jenkins-dotnet-integration/))  
     
-5.  Continuous Integration for DotNet Using Jenkins, SVN and MSBuild (DotNet) ([Read here](http://www.techovity.com/continuous-integration-for-dotnet-using-jenkins-svn-and-msbuild-dotnet/))    
+5.  Continuous Integration for DotNet Using Jenkins, SVN and MSBuild ([Read here](http://www.techovity.com/continuous-integration-for-dotnet-using-jenkins-svn-and-msbuild-dotnet/))    
 
 ![]({{site.baseurl}}/images/integrate-in-jenkins.png)
 
