@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Jenkins- An Overview"
+title: Jenkins- An Overview
+published: true
 ---
 
 # Advantages of Jenkins
@@ -75,8 +76,8 @@ Here comes the role of an automated infrastructure to handle deployment. Such in
     
 5.  Continuous Integration for DotNet Using Jenkins, SVN and MSBuild (DotNet) ([Read here](http://www.techovity.com/continuous-integration-for-dotnet-using-jenkins-svn-and-msbuild-dotnet/))    
 
-![minima theme preview](/screenshot.png)
+![]({{site.baseurl}}/https://github.com/adarshbm82/Musings/blob/master/images/integrate-in-jenkins.png)
 
+<br><br>
 
-
-
+![]({{site.baseurl}}/https://github.com/adarshbm82/Musings/blob/master/images/2.jpg)
