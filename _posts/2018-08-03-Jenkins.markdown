@@ -80,4 +80,4 @@ Here comes the role of an automated infrastructure to handle deployment. Such in
 
 <br><br>
 
-![]({{site.baseurl}}/images/2.jpg)
+![]({{site.baseurl}}/images/1.jpg)
