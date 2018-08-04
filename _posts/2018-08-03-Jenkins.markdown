@@ -55,7 +55,6 @@ Prepare, test (unit and integration tests), package, publish, deploy.
 
 # Continuous Deployment with Jenkins & .NET
 
-
 For Visual Studio to compile the source code and start the debugger, we hit F5 and repeat this many times during development and bug hunting.
 
 But what happens when the code is ready for prime time? Deployment happens!
@@ -64,7 +63,7 @@ Here comes the role of an automated infrastructure to handle deployment. Such in
 
 **Reade more here**: [Continuous Deployment with Jenkins & .NET](https://blog.couchbase.com/continuous-deployment-with-jenkins-and-net/)
 
-#### Further Reference
+# Further Reference
 
 1.  _.NET Application CI using Jenkins_ ([Read here](https://www.codeproject.com/Articles/1019956/Net-Application-Continuous-Integration-CI-using-Je))  
     
@@ -74,7 +73,11 @@ Here comes the role of an automated infrastructure to handle deployment. Such in
     
 4.  _How to Integrate .NET Projects with Jenkins_ ([Read here](https://www.swtestacademy.com/jenkins-dotnet-integration/))  
     
-5.  _Continuous Integration for DotNet Using Jenkins, SVN and MSBuild_ ([Read here](http://www.techovity.com/continuous-integration-for-dotnet-using-jenkins-svn-and-msbuild-dotnet/))    
+5.  _Continuous Integration for DotNet Using Jenkins, SVN and MSBuild_ ([Read here](http://www.techovity.com/continuous-integration-for-dotnet-using-jenkins-svn-and-msbuild-dotnet/)) 
+
+6. _Using Jenkins to automate execution of SQL Server Query_ ([Read here](https://bradwulf.wordpress.com/2016/07/11/using-jenkins-to-automate-execution-of-sql-server-query/))
+
+7. _Database CI with Jenkins_ ([Read here](http://workingwithdevs.com/database-ci-with-jenkins-a-step-by-step-tutorial/))
 
 ![]({{site.baseurl}}/images/integrate-in-jenkins.png)
 
