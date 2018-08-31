@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swami Vivekananda on Himself, Advaita Ashrama, 2006
+title: Letter - Swami Vivekananda, Advaita Ashrama, 2006
 published: true
 ---
 
