@@ -6,7 +6,7 @@ published: true
 
 I am persuaded that a leader is not made in one life. He has to be born for it. For the difficulty is not in organisation and making plans; the test, the real test of the leader, lies in holding widely different people together along the line of their common sympathies. And this can only be done unconsciously, never by trying.
 
-I was asked by an English friend on the eve of my departure: “**Swami, how do you like now your motherland after four years’ experience of the luxurious, glorious, powerful West?**” I could only answer: *“India I loved before I came away. Now the very dust of India has become holy to me, the very air is now to me holy; it is now the holy land, the place of pilgrimage, the Tirtha*".
+I was asked by an English friend on the eve of my departure: “**Swami, how do you like now your motherland after four years’ experience of the luxurious, glorious, powerful West?**” I could only answer: *“**India I loved before I came away. Now the very dust of India has become holy to me, the very air is now to me holy; it is now the holy land, the place of pilgrimage, the Tirtha***".
 
 ***We must electrify society, electrify the world.***... **Let character be formed and then I shall be in your midst. ... A huge spiritual tidal wave is coming – he, who is low, shall become noble, and he, who is ignorant, shall become the teacher of great scholars - through His grace. “Uttisthata jagrata prapya varan nibodhata - Arise! Awake! and stop not till the goal is reached**”. ...
 
