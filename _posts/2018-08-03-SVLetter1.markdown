@@ -1,3 +1,8 @@
+---
+layout: post
+title: Jenkins- An Overview
+published: true
+---
 
 I am persuaded that a leader is not made in one life. He has to be born for it. For the difficulty is not in organisation and making plans; the test, the real test of the leader, lies in holding widely different people together along the line of their common sympathies. And this can only be done unconsciously, never by trying.
 
