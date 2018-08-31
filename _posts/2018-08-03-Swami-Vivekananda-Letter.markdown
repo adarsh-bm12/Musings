@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter - Swami Vivekananda, Advaita Ashrama, 2006
+title: Letters - Swami Vivekananda, Advaita Ashrama, 2006
 published: true
 ---
 
